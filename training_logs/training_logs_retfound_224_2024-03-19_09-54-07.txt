@@ -1,0 +1,28 @@
+2024-03-19 09:54:12,213 - INFO - Saving models in /home/tejadhith/Project/OCT/multiclass_models_retfound_448 
+2024-03-19 09:54:20,651 - INFO - Initial Test Accuracy (foveal_scan): 0.0808
+2024-03-19 09:54:20,651 - INFO - Initial Test Accuracy (healthy): 0.5961
+2024-03-19 09:54:20,651 - INFO - Initial Test Accuracy (srf): 0.0044
+2024-03-19 09:54:20,651 - INFO - Initial Test Accuracy (irf): 0.0131
+2024-03-19 09:54:20,651 - INFO - Initial Test Accuracy (drusen): 0.7751
+2024-03-19 09:54:20,651 - INFO - Initial Test Accuracy (ped): 0.0590
+2024-03-19 09:54:20,651 - INFO - Initial Test Accuracy (hdots): 0.6201
+2024-03-19 09:54:20,652 - INFO - Initial Test Accuracy (hfoci): 0.9127
+2024-03-19 09:54:49,537 - INFO - Epoch 1/40, Train Loss: 0.1754
+2024-03-19 09:55:03,000 - INFO - Epoch 1/40, Train Accuracy (foveal_scan): 0.7459
+2024-03-19 09:55:03,000 - INFO - Epoch 1/40, Train Accuracy (healthy): 0.7435
+2024-03-19 09:55:03,000 - INFO - Epoch 1/40, Train Accuracy (srf): 0.1569
+2024-03-19 09:55:03,000 - INFO - Epoch 1/40, Train Accuracy (irf): 0.4992
+2024-03-19 09:55:03,000 - INFO - Epoch 1/40, Train Accuracy (drusen): 0.6176
+2024-03-19 09:55:03,001 - INFO - Epoch 1/40, Train Accuracy (ped): 0.8513
+2024-03-19 09:55:03,001 - INFO - Epoch 1/40, Train Accuracy (hdots): 0.7026
+2024-03-19 09:55:03,001 - INFO - Epoch 1/40, Train Accuracy (hfoci): 0.8987
+2024-03-19 09:55:04,487 - INFO - Epoch 1/40, Val Loss: 0.1923
+2024-03-19 09:55:05,997 - INFO - Epoch 1/40, Validation Accuracy (foveal_scan): 0.7574
+2024-03-19 09:55:05,998 - INFO - Epoch 1/40, Validation Accuracy (healthy): 0.7426
+2024-03-19 09:55:05,998 - INFO - Epoch 1/40, Validation Accuracy (srf): 0.1397
+2024-03-19 09:55:05,998 - INFO - Epoch 1/40, Validation Accuracy (irf): 0.5000
+2024-03-19 09:55:05,998 - INFO - Epoch 1/40, Validation Accuracy (drusen): 0.6250
+2024-03-19 09:55:05,998 - INFO - Epoch 1/40, Validation Accuracy (ped): 0.8750
+2024-03-19 09:55:05,998 - INFO - Epoch 1/40, Validation Accuracy (hdots): 0.6397
+2024-03-19 09:55:05,998 - INFO - Epoch 1/40, Validation Accuracy (hfoci): 0.9412
+2024-03-19 09:55:14,556 - INFO - Best Validation Loss: 0.1923

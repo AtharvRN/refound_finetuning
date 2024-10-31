@@ -1,0 +1,9 @@
+2024-03-19 12:46:52,140 - INFO - Saving models in /home/tejadhith/Project/OCT/multiclass_models_retfound_448 
+2024-03-19 12:46:58,466 - INFO - Initial Test Accuracy (foveal_scan): 0.2227
+2024-03-19 12:46:58,466 - INFO - Initial Test Accuracy (healthy): 0.4607
+2024-03-19 12:46:58,466 - INFO - Initial Test Accuracy (srf): 0.2511
+2024-03-19 12:46:58,466 - INFO - Initial Test Accuracy (irf): 0.1310
+2024-03-19 12:46:58,466 - INFO - Initial Test Accuracy (drusen): 0.2533
+2024-03-19 12:46:58,466 - INFO - Initial Test Accuracy (ped): 0.6114
+2024-03-19 12:46:58,466 - INFO - Initial Test Accuracy (hdots): 0.3799
+2024-03-19 12:46:58,466 - INFO - Initial Test Accuracy (hfoci): 0.4061

@@ -1,0 +1,365 @@
+INFO:root:Saving models in /home/tejadhith/Project/OCT/models/healthy 
+INFO:root:Current Task : healthy 
+INFO:root:Test Accuracy (Initial) : 0.5808823529411765
+INFO:root:Epoch 1/10, Train Loss: 0.0186
+INFO:root:Epoch 1/10, Train Accuracy: 0.8226
+INFO:root:Validation Loss: 0.0191
+INFO:root:Best Validation Accuracy: 0.6985
+INFO:root:Epoch 2/10, Train Loss: 0.0126
+INFO:root:Epoch 2/10, Train Accuracy: 0.9320
+INFO:root:Validation Loss: 0.0140
+INFO:root:Best Validation Accuracy: 0.8309
+INFO:root:Epoch 3/10, Train Loss: 0.0080
+INFO:root:Epoch 3/10, Train Accuracy: 0.9577
+INFO:root:Validation Loss: 0.0109
+INFO:root:Best Validation Accuracy: 0.8971
+INFO:root:Epoch 4/10, Train Loss: 0.0053
+INFO:root:Epoch 4/10, Train Accuracy: 0.9835
+INFO:root:Validation Loss: 0.0137
+INFO:root:Validation Accuracy: 0.8750
+INFO:root:Epoch 5/10, Train Loss: 0.0027
+INFO:root:Epoch 5/10, Train Accuracy: 0.9890
+INFO:root:Validation Loss: 0.0129
+INFO:root:Validation Accuracy: 0.8603
+INFO:root:Epoch 6/10, Train Loss: 0.0025
+INFO:root:Epoch 6/10, Train Accuracy: 0.9761
+INFO:root:Validation Loss: 0.0111
+INFO:root:Validation Accuracy: 0.8824
+INFO:root:Epoch 7/10, Train Loss: 0.0019
+INFO:root:Epoch 7/10, Train Accuracy: 0.9835
+INFO:root:Validation Loss: 0.0186
+INFO:root:Validation Accuracy: 0.8750
+INFO:root:Epoch 8/10, Train Loss: 0.0019
+INFO:root:Epoch 8/10, Train Accuracy: 0.9936
+INFO:root:Validation Loss: 0.0210
+INFO:root:Validation Accuracy: 0.8897
+INFO:root:Epoch 9/10, Train Loss: 0.0007
+INFO:root:Epoch 9/10, Train Accuracy: 0.9945
+INFO:root:Validation Loss: 0.0208
+INFO:root:Validation Accuracy: 0.8676
+INFO:root:Epoch 10/10, Train Loss: 0.0018
+INFO:root:Epoch 10/10, Train Accuracy: 0.9899
+INFO:root:Validation Loss: 0.0195
+INFO:root:Best Validation Accuracy: 0.9044
+INFO:root:Test Accuracy (Final) : 0.9411764705882353
+INFO:root:Saving models in /home/tejadhith/Project/OCT/models/foveal_scan 
+INFO:root:Current Task : foveal_scan 
+INFO:root:Test Accuracy (Initial) : 0.6323529411764706
+INFO:root:Epoch 1/10, Train Loss: 0.0128
+INFO:root:Epoch 1/10, Train Accuracy: 0.9081
+INFO:root:Validation Loss: 0.0172
+INFO:root:Best Validation Accuracy: 0.8750
+INFO:root:Epoch 2/10, Train Loss: 0.0062
+INFO:root:Epoch 2/10, Train Accuracy: 0.9513
+INFO:root:Validation Loss: 0.0096
+INFO:root:Best Validation Accuracy: 0.9265
+INFO:root:Epoch 3/10, Train Loss: 0.0032
+INFO:root:Epoch 3/10, Train Accuracy: 0.9926
+INFO:root:Validation Loss: 0.0029
+INFO:root:Best Validation Accuracy: 0.9706
+INFO:root:Epoch 4/10, Train Loss: 0.0019
+INFO:root:Epoch 4/10, Train Accuracy: 0.9908
+INFO:root:Validation Loss: 0.0060
+INFO:root:Validation Accuracy: 0.9706
+INFO:root:Epoch 5/10, Train Loss: 0.0012
+INFO:root:Epoch 5/10, Train Accuracy: 0.9963
+INFO:root:Validation Loss: 0.0039
+INFO:root:Validation Accuracy: 0.9706
+INFO:root:Epoch 6/10, Train Loss: 0.0006
+INFO:root:Epoch 6/10, Train Accuracy: 0.9972
+INFO:root:Validation Loss: 0.0050
+INFO:root:Validation Accuracy: 0.9559
+INFO:root:Epoch 7/10, Train Loss: 0.0003
+INFO:root:Epoch 7/10, Train Accuracy: 1.0000
+INFO:root:Validation Loss: 0.0080
+INFO:root:Validation Accuracy: 0.9559
+INFO:root:Epoch 8/10, Train Loss: 0.0004
+INFO:root:Epoch 8/10, Train Accuracy: 0.9991
+INFO:root:Validation Loss: 0.0072
+INFO:root:Validation Accuracy: 0.9632
+INFO:root:Epoch 9/10, Train Loss: 0.0002
+INFO:root:Epoch 9/10, Train Accuracy: 0.9991
+INFO:root:Validation Loss: 0.0051
+INFO:root:Validation Accuracy: 0.9706
+INFO:root:Epoch 10/10, Train Loss: 0.0001
+INFO:root:Epoch 10/10, Train Accuracy: 1.0000
+INFO:root:Validation Loss: 0.0063
+INFO:root:Validation Accuracy: 0.9706
+INFO:root:Test Accuracy (Final) : 0.9779411764705882
+INFO:root:Saving models in /home/tejadhith/Project/OCT/models/srf 
+INFO:root:Current Task : srf 
+INFO:root:Test Accuracy (Initial) : 0.8382352941176471
+INFO:root:Epoch 1/10, Train Loss: 0.0122
+INFO:root:Epoch 1/10, Train Accuracy: 0.9292
+INFO:root:Validation Loss: 0.0042
+INFO:root:Best Validation Accuracy: 0.9779
+INFO:root:Epoch 2/10, Train Loss: 0.0058
+INFO:root:Epoch 2/10, Train Accuracy: 0.9596
+INFO:root:Validation Loss: 0.0020
+INFO:root:Best Validation Accuracy: 0.9926
+INFO:root:Epoch 3/10, Train Loss: 0.0036
+INFO:root:Epoch 3/10, Train Accuracy: 0.9862
+INFO:root:Validation Loss: 0.0006
+INFO:root:Best Validation Accuracy: 1.0000
+INFO:root:Epoch 4/10, Train Loss: 0.0022
+INFO:root:Epoch 4/10, Train Accuracy: 0.9862
+INFO:root:Validation Loss: 0.0023
+INFO:root:Validation Accuracy: 0.9779
+INFO:root:Epoch 5/10, Train Loss: 0.0013
+INFO:root:Epoch 5/10, Train Accuracy: 0.9890
+INFO:root:Validation Loss: 0.0005
+INFO:root:Validation Accuracy: 1.0000
+INFO:root:Epoch 6/10, Train Loss: 0.0012
+INFO:root:Epoch 6/10, Train Accuracy: 0.9963
+INFO:root:Validation Loss: 0.0003
+INFO:root:Validation Accuracy: 1.0000
+INFO:root:Epoch 7/10, Train Loss: 0.0004
+INFO:root:Epoch 7/10, Train Accuracy: 0.9991
+INFO:root:Validation Loss: 0.0001
+INFO:root:Validation Accuracy: 1.0000
+INFO:root:Epoch 8/10, Train Loss: 0.0003
+INFO:root:Epoch 8/10, Train Accuracy: 0.9540
+INFO:root:Validation Loss: 0.0109
+INFO:root:Validation Accuracy: 0.9191
+INFO:root:Epoch 9/10, Train Loss: 0.0026
+INFO:root:Epoch 9/10, Train Accuracy: 0.9936
+INFO:root:Validation Loss: 0.0002
+INFO:root:Validation Accuracy: 1.0000
+INFO:root:Epoch 10/10, Train Loss: 0.0013
+INFO:root:Epoch 10/10, Train Accuracy: 0.9991
+INFO:root:Validation Loss: 0.0003
+INFO:root:Validation Accuracy: 1.0000
+INFO:root:Test Accuracy (Final) : 0.9779411764705882
+INFO:root:Saving models in /home/tejadhith/Project/OCT/models/irf 
+INFO:root:Current Task : irf 
+INFO:root:Test Accuracy (Initial) : 0.8897058823529411
+INFO:root:Epoch 1/10, Train Loss: 0.0063
+INFO:root:Epoch 1/10, Train Accuracy: 0.9614
+INFO:root:Validation Loss: 0.0063
+INFO:root:Best Validation Accuracy: 0.9632
+INFO:root:Epoch 2/10, Train Loss: 0.0031
+INFO:root:Epoch 2/10, Train Accuracy: 0.9770
+INFO:root:Validation Loss: 0.0081
+INFO:root:Validation Accuracy: 0.9632
+INFO:root:Epoch 3/10, Train Loss: 0.0017
+INFO:root:Epoch 3/10, Train Accuracy: 0.9899
+INFO:root:Validation Loss: 0.0078
+INFO:root:Validation Accuracy: 0.9559
+INFO:root:Epoch 4/10, Train Loss: 0.0014
+INFO:root:Epoch 4/10, Train Accuracy: 0.9862
+INFO:root:Validation Loss: 0.0083
+INFO:root:Best Validation Accuracy: 0.9706
+INFO:root:Epoch 5/10, Train Loss: 0.0021
+INFO:root:Epoch 5/10, Train Accuracy: 0.9945
+INFO:root:Validation Loss: 0.0060
+INFO:root:Validation Accuracy: 0.9706
+INFO:root:Epoch 6/10, Train Loss: 0.0009
+INFO:root:Epoch 6/10, Train Accuracy: 0.9982
+INFO:root:Validation Loss: 0.0080
+INFO:root:Validation Accuracy: 0.9706
+INFO:root:Epoch 7/10, Train Loss: 0.0005
+INFO:root:Epoch 7/10, Train Accuracy: 0.9982
+INFO:root:Validation Loss: 0.0083
+INFO:root:Validation Accuracy: 0.9706
+INFO:root:Epoch 8/10, Train Loss: 0.0004
+INFO:root:Epoch 8/10, Train Accuracy: 0.9982
+INFO:root:Validation Loss: 0.0086
+INFO:root:Validation Accuracy: 0.9706
+INFO:root:Epoch 9/10, Train Loss: 0.0004
+INFO:root:Epoch 9/10, Train Accuracy: 0.9982
+INFO:root:Validation Loss: 0.0087
+INFO:root:Validation Accuracy: 0.9706
+INFO:root:Epoch 10/10, Train Loss: 0.0004
+INFO:root:Epoch 10/10, Train Accuracy: 0.9982
+INFO:root:Validation Loss: 0.0087
+INFO:root:Validation Accuracy: 0.9706
+INFO:root:Test Accuracy (Final) : 0.9705882352941176
+INFO:root:Saving models in /home/tejadhith/Project/OCT/models/drusen 
+INFO:root:Current Task : drusen 
+INFO:root:Test Accuracy (Initial) : 0.8308823529411765
+INFO:root:Epoch 1/10, Train Loss: 0.0191
+INFO:root:Epoch 1/10, Train Accuracy: 0.8281
+INFO:root:Validation Loss: 0.0154
+INFO:root:Best Validation Accuracy: 0.8382
+INFO:root:Epoch 2/10, Train Loss: 0.0118
+INFO:root:Epoch 2/10, Train Accuracy: 0.8346
+INFO:root:Validation Loss: 0.0164
+INFO:root:Best Validation Accuracy: 0.8529
+INFO:root:Epoch 3/10, Train Loss: 0.0094
+INFO:root:Epoch 3/10, Train Accuracy: 0.9283
+INFO:root:Validation Loss: 0.0148
+INFO:root:Validation Accuracy: 0.8235
+INFO:root:Epoch 4/10, Train Loss: 0.0077
+INFO:root:Epoch 4/10, Train Accuracy: 0.9605
+INFO:root:Validation Loss: 0.0122
+INFO:root:Validation Accuracy: 0.8235
+INFO:root:Epoch 5/10, Train Loss: 0.0056
+INFO:root:Epoch 5/10, Train Accuracy: 0.9623
+INFO:root:Validation Loss: 0.0167
+INFO:root:Validation Accuracy: 0.8382
+INFO:root:Epoch 6/10, Train Loss: 0.0036
+INFO:root:Epoch 6/10, Train Accuracy: 0.9531
+INFO:root:Validation Loss: 0.0150
+INFO:root:Validation Accuracy: 0.8088
+INFO:root:Epoch 7/10, Train Loss: 0.0035
+INFO:root:Epoch 7/10, Train Accuracy: 0.9421
+INFO:root:Validation Loss: 0.0240
+INFO:root:Best Validation Accuracy: 0.8750
+INFO:root:Epoch 8/10, Train Loss: 0.0022
+INFO:root:Epoch 8/10, Train Accuracy: 0.9890
+INFO:root:Validation Loss: 0.0172
+INFO:root:Validation Accuracy: 0.8309
+INFO:root:Epoch 9/10, Train Loss: 0.0016
+INFO:root:Epoch 9/10, Train Accuracy: 0.9982
+INFO:root:Validation Loss: 0.0275
+INFO:root:Validation Accuracy: 0.8015
+INFO:root:Epoch 10/10, Train Loss: 0.0008
+INFO:root:Epoch 10/10, Train Accuracy: 0.9890
+INFO:root:Validation Loss: 0.0191
+INFO:root:Validation Accuracy: 0.8235
+INFO:root:Test Accuracy (Final) : 0.8823529411764706
+INFO:root:Saving models in /home/tejadhith/Project/OCT/models/hdots 
+INFO:root:Current Task : hdots 
+INFO:root:Test Accuracy (Initial) : 0.5147058823529411
+INFO:root:Epoch 1/10, Train Loss: 0.0252
+INFO:root:Epoch 1/10, Train Accuracy: 0.6342
+INFO:root:Validation Loss: 0.0264
+INFO:root:Best Validation Accuracy: 0.5441
+INFO:root:Epoch 2/10, Train Loss: 0.0206
+INFO:root:Epoch 2/10, Train Accuracy: 0.6342
+INFO:root:Validation Loss: 0.0265
+INFO:root:Validation Accuracy: 0.5441
+INFO:root:Epoch 3/10, Train Loss: 0.0206
+INFO:root:Epoch 3/10, Train Accuracy: 0.6342
+INFO:root:Validation Loss: 0.0258
+INFO:root:Validation Accuracy: 0.5441
+INFO:root:Epoch 4/10, Train Loss: 0.0206
+INFO:root:Epoch 4/10, Train Accuracy: 0.6342
+INFO:root:Validation Loss: 0.0261
+INFO:root:Validation Accuracy: 0.5441
+INFO:root:Epoch 5/10, Train Loss: 0.0206
+INFO:root:Epoch 5/10, Train Accuracy: 0.6342
+INFO:root:Validation Loss: 0.0260
+INFO:root:Validation Accuracy: 0.5441
+INFO:root:Epoch 6/10, Train Loss: 0.0205
+INFO:root:Epoch 6/10, Train Accuracy: 0.6342
+INFO:root:Validation Loss: 0.0255
+INFO:root:Validation Accuracy: 0.5441
+INFO:root:Epoch 7/10, Train Loss: 0.0205
+INFO:root:Epoch 7/10, Train Accuracy: 0.6342
+INFO:root:Validation Loss: 0.0259
+INFO:root:Validation Accuracy: 0.5441
+INFO:root:Epoch 8/10, Train Loss: 0.0205
+INFO:root:Epoch 8/10, Train Accuracy: 0.6342
+INFO:root:Validation Loss: 0.0256
+INFO:root:Validation Accuracy: 0.5441
+INFO:root:Epoch 9/10, Train Loss: 0.0202
+INFO:root:Epoch 9/10, Train Accuracy: 0.6342
+INFO:root:Validation Loss: 0.0242
+INFO:root:Validation Accuracy: 0.5441
+INFO:root:Epoch 10/10, Train Loss: 0.0182
+INFO:root:Epoch 10/10, Train Accuracy: 0.7785
+INFO:root:Validation Loss: 0.0218
+INFO:root:Best Validation Accuracy: 0.7206
+INFO:root:Test Accuracy (Final) : 0.7279411764705882
+INFO:root:Saving models in /home/tejadhith/Project/OCT/models/hfoci 
+INFO:root:Current Task : hfoci 
+INFO:root:Test Accuracy (Initial) : 0.3235294117647059
+INFO:root:Epoch 1/10, Train Loss: 0.0062
+INFO:root:Epoch 1/10, Train Accuracy: 0.9688
+INFO:root:Validation Loss: 0.0051
+INFO:root:Best Validation Accuracy: 0.9632
+INFO:root:Epoch 2/10, Train Loss: 0.0044
+INFO:root:Epoch 2/10, Train Accuracy: 0.9688
+INFO:root:Validation Loss: 0.0051
+INFO:root:Validation Accuracy: 0.9632
+INFO:root:Epoch 3/10, Train Loss: 0.0043
+INFO:root:Epoch 3/10, Train Accuracy: 0.9688
+INFO:root:Validation Loss: 0.0051
+INFO:root:Validation Accuracy: 0.9632
+INFO:root:Epoch 4/10, Train Loss: 0.0043
+INFO:root:Epoch 4/10, Train Accuracy: 0.9688
+INFO:root:Validation Loss: 0.0052
+INFO:root:Validation Accuracy: 0.9632
+INFO:root:Epoch 5/10, Train Loss: 0.0042
+INFO:root:Epoch 5/10, Train Accuracy: 0.9688
+INFO:root:Validation Loss: 0.0053
+INFO:root:Validation Accuracy: 0.9632
+INFO:root:Epoch 6/10, Train Loss: 0.0044
+INFO:root:Epoch 6/10, Train Accuracy: 0.9688
+INFO:root:Validation Loss: 0.0052
+INFO:root:Validation Accuracy: 0.9632
+INFO:root:Epoch 7/10, Train Loss: 0.0044
+INFO:root:Epoch 7/10, Train Accuracy: 0.9688
+INFO:root:Validation Loss: 0.0052
+INFO:root:Validation Accuracy: 0.9632
+INFO:root:Epoch 8/10, Train Loss: 0.0040
+INFO:root:Epoch 8/10, Train Accuracy: 0.9688
+INFO:root:Validation Loss: 0.0053
+INFO:root:Validation Accuracy: 0.9632
+INFO:root:Epoch 9/10, Train Loss: 0.0036
+INFO:root:Epoch 9/10, Train Accuracy: 0.9733
+INFO:root:Validation Loss: 0.0054
+INFO:root:Validation Accuracy: 0.9632
+INFO:root:Epoch 10/10, Train Loss: 0.0033
+INFO:root:Epoch 10/10, Train Accuracy: 0.9688
+INFO:root:Validation Loss: 0.0052
+INFO:root:Validation Accuracy: 0.9632
+INFO:root:Test Accuracy (Final) : 0.9926470588235294
+INFO:root:Saving models in /home/tejadhith/Project/OCT/models/healthy 
+INFO:root:Current Task : healthy 
+INFO:root:Test Accuracy (Initial) : 0.5808823529411765
+INFO:root:Epoch 1/10, Train Loss: 0.0186
+INFO:root:Epoch 1/10, Train Accuracy: 0.8226
+INFO:root:Validation Loss: 0.0191
+INFO:root:Best Validation Accuracy: 0.6985
+INFO:root:Saving models in /home/tejadhith/Project/OCT/models/ped 
+INFO:root:Current Task : ped 
+INFO:root:Test Accuracy (Initial) : 0.7426470588235294
+INFO:root:Epoch 1/10, Train Loss: 0.0150
+INFO:root:Epoch 1/10, Train Accuracy: 0.8410
+INFO:root:Validation Loss: 0.0119
+INFO:root:Saving models in /home/tejadhith/Project/OCT/models/ped 
+INFO:root:Current Task : ped 
+INFO:root:Test Accuracy (Initial) : 0.7426470588235294
+INFO:root:Epoch 1/10, Train Loss: 0.0150
+INFO:root:Epoch 1/10, Train Accuracy: 0.8410
+INFO:root:Validation Loss: 0.0120
+INFO:root:Best Validation Accuracy: 0.8162
+INFO:root:Epoch 2/10, Train Loss: 0.0103
+INFO:root:Epoch 2/10, Train Accuracy: 0.9173
+INFO:root:Validation Loss: 0.0082
+INFO:root:Best Validation Accuracy: 0.9265
+INFO:root:Epoch 3/10, Train Loss: 0.0064
+INFO:root:Epoch 3/10, Train Accuracy: 0.9614
+INFO:root:Validation Loss: 0.0087
+INFO:root:Validation Accuracy: 0.9265
+INFO:root:Epoch 4/10, Train Loss: 0.0039
+INFO:root:Epoch 4/10, Train Accuracy: 0.9706
+INFO:root:Validation Loss: 0.0092
+INFO:root:Validation Accuracy: 0.9265
+INFO:root:Epoch 5/10, Train Loss: 0.0020
+INFO:root:Epoch 5/10, Train Accuracy: 0.9881
+INFO:root:Validation Loss: 0.0066
+INFO:root:Validation Accuracy: 0.9191
+INFO:root:Epoch 6/10, Train Loss: 0.0011
+INFO:root:Epoch 6/10, Train Accuracy: 0.9881
+INFO:root:Validation Loss: 0.0075
+INFO:root:Best Validation Accuracy: 0.9485
+INFO:root:Epoch 7/10, Train Loss: 0.0008
+INFO:root:Epoch 7/10, Train Accuracy: 0.9991
+INFO:root:Validation Loss: 0.0057
+INFO:root:Best Validation Accuracy: 0.9632
+INFO:root:Epoch 8/10, Train Loss: 0.0001
+INFO:root:Epoch 8/10, Train Accuracy: 1.0000
+INFO:root:Validation Loss: 0.0092
+INFO:root:Validation Accuracy: 0.9632
+INFO:root:Epoch 9/10, Train Loss: 0.0001
+INFO:root:Epoch 9/10, Train Accuracy: 1.0000
+INFO:root:Validation Loss: 0.0091
+INFO:root:Validation Accuracy: 0.9485
+INFO:root:Epoch 10/10, Train Loss: 0.0001
+INFO:root:Epoch 10/10, Train Accuracy: 1.0000
+INFO:root:Validation Loss: 0.0093
+INFO:root:Validation Accuracy: 0.9632
+INFO:root:Test Accuracy (Final) : 0.9411764705882353

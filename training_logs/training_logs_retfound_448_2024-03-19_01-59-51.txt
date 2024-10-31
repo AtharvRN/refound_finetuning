@@ -1,0 +1,386 @@
+2024-03-19 01:59:56,634 - INFO - Saving models in /home/tejadhith/Project/OCT/multiclass_models_retfound_448 
+2024-03-19 02:00:18,086 - INFO - Initial Test Accuracy (foveal_scan): 0.9192
+2024-03-19 02:00:18,087 - INFO - Initial Test Accuracy (healthy): 0.5961
+2024-03-19 02:00:18,087 - INFO - Initial Test Accuracy (srf): 0.9956
+2024-03-19 02:00:18,087 - INFO - Initial Test Accuracy (irf): 0.0131
+2024-03-19 02:00:18,087 - INFO - Initial Test Accuracy (drusen): 0.2620
+2024-03-19 02:00:18,087 - INFO - Initial Test Accuracy (ped): 0.5611
+2024-03-19 02:00:18,087 - INFO - Initial Test Accuracy (hdots): 0.6201
+2024-03-19 02:00:18,087 - INFO - Initial Test Accuracy (hfoci): 0.9105
+2024-03-19 02:02:39,071 - INFO - Epoch 1/20, Train Loss: 0.7941
+2024-03-19 02:03:30,146 - INFO - Epoch 1/20, Train Accuracy (foveal_scan): 0.9044
+2024-03-19 02:03:30,146 - INFO - Epoch 1/20, Train Accuracy (healthy): 0.7206
+2024-03-19 02:03:30,146 - INFO - Epoch 1/20, Train Accuracy (srf): 0.9346
+2024-03-19 02:03:30,146 - INFO - Epoch 1/20, Train Accuracy (irf): 0.9510
+2024-03-19 02:03:30,146 - INFO - Epoch 1/20, Train Accuracy (drusen): 0.8292
+2024-03-19 02:03:30,146 - INFO - Epoch 1/20, Train Accuracy (ped): 0.8382
+2024-03-19 02:03:30,146 - INFO - Epoch 1/20, Train Accuracy (hdots): 0.6340
+2024-03-19 02:03:30,146 - INFO - Epoch 1/20, Train Accuracy (hfoci): 0.9681
+2024-03-19 02:03:35,807 - INFO - Epoch 1/20, Val Loss: 0.8028
+2024-03-19 02:03:41,506 - INFO - Epoch 1/20, Validation Accuracy (foveal_scan): 0.8676
+2024-03-19 02:03:41,507 - INFO - Epoch 1/20, Validation Accuracy (healthy): 0.6618
+2024-03-19 02:03:41,507 - INFO - Epoch 1/20, Validation Accuracy (srf): 0.9338
+2024-03-19 02:03:41,507 - INFO - Epoch 1/20, Validation Accuracy (irf): 0.9338
+2024-03-19 02:03:41,507 - INFO - Epoch 1/20, Validation Accuracy (drusen): 0.8676
+2024-03-19 02:03:41,507 - INFO - Epoch 1/20, Validation Accuracy (ped): 0.8382
+2024-03-19 02:03:41,507 - INFO - Epoch 1/20, Validation Accuracy (hdots): 0.5735
+2024-03-19 02:03:41,507 - INFO - Epoch 1/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:03:42,700 - INFO - Best Validation Loss: 0.8028
+2024-03-19 02:06:05,349 - INFO - Epoch 2/20, Train Loss: 0.7812
+2024-03-19 02:06:56,448 - INFO - Epoch 2/20, Train Accuracy (foveal_scan): 0.9044
+2024-03-19 02:06:56,448 - INFO - Epoch 2/20, Train Accuracy (healthy): 0.6961
+2024-03-19 02:06:56,448 - INFO - Epoch 2/20, Train Accuracy (srf): 0.9346
+2024-03-19 02:06:56,448 - INFO - Epoch 2/20, Train Accuracy (irf): 0.9510
+2024-03-19 02:06:56,448 - INFO - Epoch 2/20, Train Accuracy (drusen): 0.8292
+2024-03-19 02:06:56,448 - INFO - Epoch 2/20, Train Accuracy (ped): 0.8382
+2024-03-19 02:06:56,448 - INFO - Epoch 2/20, Train Accuracy (hdots): 0.6560
+2024-03-19 02:06:56,448 - INFO - Epoch 2/20, Train Accuracy (hfoci): 0.9681
+2024-03-19 02:07:02,114 - INFO - Epoch 2/20, Val Loss: 0.7791
+2024-03-19 02:07:07,796 - INFO - Epoch 2/20, Validation Accuracy (foveal_scan): 0.8676
+2024-03-19 02:07:07,796 - INFO - Epoch 2/20, Validation Accuracy (healthy): 0.6471
+2024-03-19 02:07:07,797 - INFO - Epoch 2/20, Validation Accuracy (srf): 0.9338
+2024-03-19 02:07:07,797 - INFO - Epoch 2/20, Validation Accuracy (irf): 0.9338
+2024-03-19 02:07:07,797 - INFO - Epoch 2/20, Validation Accuracy (drusen): 0.8676
+2024-03-19 02:07:07,797 - INFO - Epoch 2/20, Validation Accuracy (ped): 0.8382
+2024-03-19 02:07:07,797 - INFO - Epoch 2/20, Validation Accuracy (hdots): 0.6103
+2024-03-19 02:07:07,797 - INFO - Epoch 2/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:07:18,861 - INFO - Best Validation Loss: 0.7791
+2024-03-19 02:09:40,351 - INFO - Epoch 3/20, Train Loss: 0.7646
+2024-03-19 02:10:31,400 - INFO - Epoch 3/20, Train Accuracy (foveal_scan): 0.9044
+2024-03-19 02:10:31,401 - INFO - Epoch 3/20, Train Accuracy (healthy): 0.7516
+2024-03-19 02:10:31,401 - INFO - Epoch 3/20, Train Accuracy (srf): 0.9346
+2024-03-19 02:10:31,401 - INFO - Epoch 3/20, Train Accuracy (irf): 0.9510
+2024-03-19 02:10:31,401 - INFO - Epoch 3/20, Train Accuracy (drusen): 0.8292
+2024-03-19 02:10:31,401 - INFO - Epoch 3/20, Train Accuracy (ped): 0.8382
+2024-03-19 02:10:31,401 - INFO - Epoch 3/20, Train Accuracy (hdots): 0.6242
+2024-03-19 02:10:31,401 - INFO - Epoch 3/20, Train Accuracy (hfoci): 0.9681
+2024-03-19 02:10:37,094 - INFO - Epoch 3/20, Val Loss: 0.7767
+2024-03-19 02:10:42,767 - INFO - Epoch 3/20, Validation Accuracy (foveal_scan): 0.8676
+2024-03-19 02:10:42,767 - INFO - Epoch 3/20, Validation Accuracy (healthy): 0.7132
+2024-03-19 02:10:42,767 - INFO - Epoch 3/20, Validation Accuracy (srf): 0.9338
+2024-03-19 02:10:42,767 - INFO - Epoch 3/20, Validation Accuracy (irf): 0.9338
+2024-03-19 02:10:42,767 - INFO - Epoch 3/20, Validation Accuracy (drusen): 0.8676
+2024-03-19 02:10:42,768 - INFO - Epoch 3/20, Validation Accuracy (ped): 0.8382
+2024-03-19 02:10:42,768 - INFO - Epoch 3/20, Validation Accuracy (hdots): 0.5588
+2024-03-19 02:10:42,768 - INFO - Epoch 3/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:10:53,030 - INFO - Best Validation Loss: 0.7767
+2024-03-19 02:13:14,501 - INFO - Epoch 4/20, Train Loss: 0.7448
+2024-03-19 02:14:05,639 - INFO - Epoch 4/20, Train Accuracy (foveal_scan): 0.9044
+2024-03-19 02:14:05,639 - INFO - Epoch 4/20, Train Accuracy (healthy): 0.7508
+2024-03-19 02:14:05,639 - INFO - Epoch 4/20, Train Accuracy (srf): 0.9346
+2024-03-19 02:14:05,639 - INFO - Epoch 4/20, Train Accuracy (irf): 0.9510
+2024-03-19 02:14:05,639 - INFO - Epoch 4/20, Train Accuracy (drusen): 0.8292
+2024-03-19 02:14:05,639 - INFO - Epoch 4/20, Train Accuracy (ped): 0.8382
+2024-03-19 02:14:05,639 - INFO - Epoch 4/20, Train Accuracy (hdots): 0.6520
+2024-03-19 02:14:05,639 - INFO - Epoch 4/20, Train Accuracy (hfoci): 0.9681
+2024-03-19 02:14:11,307 - INFO - Epoch 4/20, Val Loss: 0.7568
+2024-03-19 02:14:17,002 - INFO - Epoch 4/20, Validation Accuracy (foveal_scan): 0.8676
+2024-03-19 02:14:17,002 - INFO - Epoch 4/20, Validation Accuracy (healthy): 0.6544
+2024-03-19 02:14:17,002 - INFO - Epoch 4/20, Validation Accuracy (srf): 0.9338
+2024-03-19 02:14:17,002 - INFO - Epoch 4/20, Validation Accuracy (irf): 0.9338
+2024-03-19 02:14:17,002 - INFO - Epoch 4/20, Validation Accuracy (drusen): 0.8676
+2024-03-19 02:14:17,002 - INFO - Epoch 4/20, Validation Accuracy (ped): 0.8382
+2024-03-19 02:14:17,002 - INFO - Epoch 4/20, Validation Accuracy (hdots): 0.6324
+2024-03-19 02:14:17,003 - INFO - Epoch 4/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:14:27,372 - INFO - Best Validation Loss: 0.7568
+2024-03-19 02:16:48,882 - INFO - Epoch 5/20, Train Loss: 0.7361
+2024-03-19 02:17:40,026 - INFO - Epoch 5/20, Train Accuracy (foveal_scan): 0.9044
+2024-03-19 02:17:40,026 - INFO - Epoch 5/20, Train Accuracy (healthy): 0.6969
+2024-03-19 02:17:40,026 - INFO - Epoch 5/20, Train Accuracy (srf): 0.9346
+2024-03-19 02:17:40,026 - INFO - Epoch 5/20, Train Accuracy (irf): 0.9510
+2024-03-19 02:17:40,026 - INFO - Epoch 5/20, Train Accuracy (drusen): 0.8292
+2024-03-19 02:17:40,026 - INFO - Epoch 5/20, Train Accuracy (ped): 0.8382
+2024-03-19 02:17:40,026 - INFO - Epoch 5/20, Train Accuracy (hdots): 0.6479
+2024-03-19 02:17:40,026 - INFO - Epoch 5/20, Train Accuracy (hfoci): 0.9681
+2024-03-19 02:17:45,697 - INFO - Epoch 5/20, Val Loss: 0.7736
+2024-03-19 02:17:51,389 - INFO - Epoch 5/20, Validation Accuracy (foveal_scan): 0.8676
+2024-03-19 02:17:51,389 - INFO - Epoch 5/20, Validation Accuracy (healthy): 0.6471
+2024-03-19 02:17:51,389 - INFO - Epoch 5/20, Validation Accuracy (srf): 0.9338
+2024-03-19 02:17:51,389 - INFO - Epoch 5/20, Validation Accuracy (irf): 0.9338
+2024-03-19 02:17:51,389 - INFO - Epoch 5/20, Validation Accuracy (drusen): 0.8676
+2024-03-19 02:17:51,389 - INFO - Epoch 5/20, Validation Accuracy (ped): 0.8382
+2024-03-19 02:17:51,389 - INFO - Epoch 5/20, Validation Accuracy (hdots): 0.5882
+2024-03-19 02:17:51,389 - INFO - Epoch 5/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:20:12,775 - INFO - Epoch 6/20, Train Loss: 0.7164
+2024-03-19 02:21:03,861 - INFO - Epoch 6/20, Train Accuracy (foveal_scan): 0.9044
+2024-03-19 02:21:03,861 - INFO - Epoch 6/20, Train Accuracy (healthy): 0.7892
+2024-03-19 02:21:03,861 - INFO - Epoch 6/20, Train Accuracy (srf): 0.9346
+2024-03-19 02:21:03,861 - INFO - Epoch 6/20, Train Accuracy (irf): 0.9510
+2024-03-19 02:21:03,861 - INFO - Epoch 6/20, Train Accuracy (drusen): 0.8292
+2024-03-19 02:21:03,861 - INFO - Epoch 6/20, Train Accuracy (ped): 0.8570
+2024-03-19 02:21:03,861 - INFO - Epoch 6/20, Train Accuracy (hdots): 0.6789
+2024-03-19 02:21:03,861 - INFO - Epoch 6/20, Train Accuracy (hfoci): 0.9681
+2024-03-19 02:21:09,531 - INFO - Epoch 6/20, Val Loss: 0.7146
+2024-03-19 02:21:15,229 - INFO - Epoch 6/20, Validation Accuracy (foveal_scan): 0.8676
+2024-03-19 02:21:15,229 - INFO - Epoch 6/20, Validation Accuracy (healthy): 0.7132
+2024-03-19 02:21:15,229 - INFO - Epoch 6/20, Validation Accuracy (srf): 0.9338
+2024-03-19 02:21:15,229 - INFO - Epoch 6/20, Validation Accuracy (irf): 0.9338
+2024-03-19 02:21:15,229 - INFO - Epoch 6/20, Validation Accuracy (drusen): 0.8676
+2024-03-19 02:21:15,229 - INFO - Epoch 6/20, Validation Accuracy (ped): 0.8456
+2024-03-19 02:21:15,229 - INFO - Epoch 6/20, Validation Accuracy (hdots): 0.6397
+2024-03-19 02:21:15,229 - INFO - Epoch 6/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:21:26,043 - INFO - Best Validation Loss: 0.7146
+2024-03-19 02:23:48,660 - INFO - Epoch 7/20, Train Loss: 0.6787
+2024-03-19 02:24:39,711 - INFO - Epoch 7/20, Train Accuracy (foveal_scan): 0.9044
+2024-03-19 02:24:39,711 - INFO - Epoch 7/20, Train Accuracy (healthy): 0.7917
+2024-03-19 02:24:39,711 - INFO - Epoch 7/20, Train Accuracy (srf): 0.9346
+2024-03-19 02:24:39,711 - INFO - Epoch 7/20, Train Accuracy (irf): 0.9510
+2024-03-19 02:24:39,711 - INFO - Epoch 7/20, Train Accuracy (drusen): 0.8292
+2024-03-19 02:24:39,711 - INFO - Epoch 7/20, Train Accuracy (ped): 0.8676
+2024-03-19 02:24:39,711 - INFO - Epoch 7/20, Train Accuracy (hdots): 0.7190
+2024-03-19 02:24:39,711 - INFO - Epoch 7/20, Train Accuracy (hfoci): 0.9681
+2024-03-19 02:24:45,378 - INFO - Epoch 7/20, Val Loss: 0.7083
+2024-03-19 02:24:51,071 - INFO - Epoch 7/20, Validation Accuracy (foveal_scan): 0.8676
+2024-03-19 02:24:51,071 - INFO - Epoch 7/20, Validation Accuracy (healthy): 0.7279
+2024-03-19 02:24:51,071 - INFO - Epoch 7/20, Validation Accuracy (srf): 0.9338
+2024-03-19 02:24:51,071 - INFO - Epoch 7/20, Validation Accuracy (irf): 0.9338
+2024-03-19 02:24:51,071 - INFO - Epoch 7/20, Validation Accuracy (drusen): 0.8676
+2024-03-19 02:24:51,071 - INFO - Epoch 7/20, Validation Accuracy (ped): 0.8456
+2024-03-19 02:24:51,071 - INFO - Epoch 7/20, Validation Accuracy (hdots): 0.6985
+2024-03-19 02:24:51,072 - INFO - Epoch 7/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:25:01,428 - INFO - Best Validation Loss: 0.7083
+2024-03-19 02:27:22,959 - INFO - Epoch 8/20, Train Loss: 0.6308
+2024-03-19 02:28:14,102 - INFO - Epoch 8/20, Train Accuracy (foveal_scan): 0.9044
+2024-03-19 02:28:14,102 - INFO - Epoch 8/20, Train Accuracy (healthy): 0.8415
+2024-03-19 02:28:14,102 - INFO - Epoch 8/20, Train Accuracy (srf): 0.9420
+2024-03-19 02:28:14,102 - INFO - Epoch 8/20, Train Accuracy (irf): 0.9608
+2024-03-19 02:28:14,102 - INFO - Epoch 8/20, Train Accuracy (drusen): 0.8292
+2024-03-19 02:28:14,102 - INFO - Epoch 8/20, Train Accuracy (ped): 0.8946
+2024-03-19 02:28:14,102 - INFO - Epoch 8/20, Train Accuracy (hdots): 0.7868
+2024-03-19 02:28:14,102 - INFO - Epoch 8/20, Train Accuracy (hfoci): 0.9681
+2024-03-19 02:28:19,772 - INFO - Epoch 8/20, Val Loss: 0.6246
+2024-03-19 02:28:25,466 - INFO - Epoch 8/20, Validation Accuracy (foveal_scan): 0.8676
+2024-03-19 02:28:25,466 - INFO - Epoch 8/20, Validation Accuracy (healthy): 0.7500
+2024-03-19 02:28:25,466 - INFO - Epoch 8/20, Validation Accuracy (srf): 0.9338
+2024-03-19 02:28:25,466 - INFO - Epoch 8/20, Validation Accuracy (irf): 0.9412
+2024-03-19 02:28:25,466 - INFO - Epoch 8/20, Validation Accuracy (drusen): 0.8676
+2024-03-19 02:28:25,466 - INFO - Epoch 8/20, Validation Accuracy (ped): 0.8456
+2024-03-19 02:28:25,466 - INFO - Epoch 8/20, Validation Accuracy (hdots): 0.7426
+2024-03-19 02:28:25,466 - INFO - Epoch 8/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:28:36,389 - INFO - Best Validation Loss: 0.6246
+2024-03-19 02:30:57,836 - INFO - Epoch 9/20, Train Loss: 0.5716
+2024-03-19 02:31:48,956 - INFO - Epoch 9/20, Train Accuracy (foveal_scan): 0.9069
+2024-03-19 02:31:48,956 - INFO - Epoch 9/20, Train Accuracy (healthy): 0.8456
+2024-03-19 02:31:48,956 - INFO - Epoch 9/20, Train Accuracy (srf): 0.9534
+2024-03-19 02:31:48,956 - INFO - Epoch 9/20, Train Accuracy (irf): 0.9641
+2024-03-19 02:31:48,957 - INFO - Epoch 9/20, Train Accuracy (drusen): 0.8292
+2024-03-19 02:31:48,957 - INFO - Epoch 9/20, Train Accuracy (ped): 0.9052
+2024-03-19 02:31:48,957 - INFO - Epoch 9/20, Train Accuracy (hdots): 0.8121
+2024-03-19 02:31:48,957 - INFO - Epoch 9/20, Train Accuracy (hfoci): 0.9681
+2024-03-19 02:31:54,627 - INFO - Epoch 9/20, Val Loss: 0.6329
+2024-03-19 02:32:00,318 - INFO - Epoch 9/20, Validation Accuracy (foveal_scan): 0.8676
+2024-03-19 02:32:00,318 - INFO - Epoch 9/20, Validation Accuracy (healthy): 0.7794
+2024-03-19 02:32:00,318 - INFO - Epoch 9/20, Validation Accuracy (srf): 0.9559
+2024-03-19 02:32:00,318 - INFO - Epoch 9/20, Validation Accuracy (irf): 0.9338
+2024-03-19 02:32:00,318 - INFO - Epoch 9/20, Validation Accuracy (drusen): 0.8676
+2024-03-19 02:32:00,318 - INFO - Epoch 9/20, Validation Accuracy (ped): 0.8750
+2024-03-19 02:32:00,318 - INFO - Epoch 9/20, Validation Accuracy (hdots): 0.7500
+2024-03-19 02:32:00,318 - INFO - Epoch 9/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:34:21,697 - INFO - Epoch 10/20, Train Loss: 0.5102
+2024-03-19 02:35:12,805 - INFO - Epoch 10/20, Train Accuracy (foveal_scan): 0.9208
+2024-03-19 02:35:12,805 - INFO - Epoch 10/20, Train Accuracy (healthy): 0.8374
+2024-03-19 02:35:12,805 - INFO - Epoch 10/20, Train Accuracy (srf): 0.9583
+2024-03-19 02:35:12,805 - INFO - Epoch 10/20, Train Accuracy (irf): 0.9714
+2024-03-19 02:35:12,805 - INFO - Epoch 10/20, Train Accuracy (drusen): 0.8399
+2024-03-19 02:35:12,805 - INFO - Epoch 10/20, Train Accuracy (ped): 0.9379
+2024-03-19 02:35:12,805 - INFO - Epoch 10/20, Train Accuracy (hdots): 0.7925
+2024-03-19 02:35:12,805 - INFO - Epoch 10/20, Train Accuracy (hfoci): 0.9681
+2024-03-19 02:35:18,469 - INFO - Epoch 10/20, Val Loss: 0.6162
+2024-03-19 02:35:24,165 - INFO - Epoch 10/20, Validation Accuracy (foveal_scan): 0.9118
+2024-03-19 02:35:24,165 - INFO - Epoch 10/20, Validation Accuracy (healthy): 0.7794
+2024-03-19 02:35:24,165 - INFO - Epoch 10/20, Validation Accuracy (srf): 0.9559
+2024-03-19 02:35:24,165 - INFO - Epoch 10/20, Validation Accuracy (irf): 0.9412
+2024-03-19 02:35:24,165 - INFO - Epoch 10/20, Validation Accuracy (drusen): 0.8529
+2024-03-19 02:35:24,165 - INFO - Epoch 10/20, Validation Accuracy (ped): 0.8824
+2024-03-19 02:35:24,165 - INFO - Epoch 10/20, Validation Accuracy (hdots): 0.7206
+2024-03-19 02:35:24,165 - INFO - Epoch 10/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:35:34,858 - INFO - Best Validation Loss: 0.6162
+2024-03-19 02:37:56,462 - INFO - Epoch 11/20, Train Loss: 0.4393
+2024-03-19 02:38:47,646 - INFO - Epoch 11/20, Train Accuracy (foveal_scan): 0.9306
+2024-03-19 02:38:47,646 - INFO - Epoch 11/20, Train Accuracy (healthy): 0.8905
+2024-03-19 02:38:47,646 - INFO - Epoch 11/20, Train Accuracy (srf): 0.9583
+2024-03-19 02:38:47,646 - INFO - Epoch 11/20, Train Accuracy (irf): 0.9575
+2024-03-19 02:38:47,646 - INFO - Epoch 11/20, Train Accuracy (drusen): 0.8333
+2024-03-19 02:38:47,646 - INFO - Epoch 11/20, Train Accuracy (ped): 0.9477
+2024-03-19 02:38:47,647 - INFO - Epoch 11/20, Train Accuracy (hdots): 0.8260
+2024-03-19 02:38:47,647 - INFO - Epoch 11/20, Train Accuracy (hfoci): 0.9698
+2024-03-19 02:38:53,315 - INFO - Epoch 11/20, Val Loss: 0.6583
+2024-03-19 02:38:59,017 - INFO - Epoch 11/20, Validation Accuracy (foveal_scan): 0.8750
+2024-03-19 02:38:59,017 - INFO - Epoch 11/20, Validation Accuracy (healthy): 0.7353
+2024-03-19 02:38:59,017 - INFO - Epoch 11/20, Validation Accuracy (srf): 0.9559
+2024-03-19 02:38:59,017 - INFO - Epoch 11/20, Validation Accuracy (irf): 0.9191
+2024-03-19 02:38:59,017 - INFO - Epoch 11/20, Validation Accuracy (drusen): 0.8676
+2024-03-19 02:38:59,017 - INFO - Epoch 11/20, Validation Accuracy (ped): 0.8676
+2024-03-19 02:38:59,017 - INFO - Epoch 11/20, Validation Accuracy (hdots): 0.7279
+2024-03-19 02:38:59,018 - INFO - Epoch 11/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:41:21,565 - INFO - Epoch 12/20, Train Loss: 0.3737
+2024-03-19 02:42:12,688 - INFO - Epoch 12/20, Train Accuracy (foveal_scan): 0.9681
+2024-03-19 02:42:12,688 - INFO - Epoch 12/20, Train Accuracy (healthy): 0.9714
+2024-03-19 02:42:12,688 - INFO - Epoch 12/20, Train Accuracy (srf): 0.9755
+2024-03-19 02:42:12,688 - INFO - Epoch 12/20, Train Accuracy (irf): 0.9730
+2024-03-19 02:42:12,688 - INFO - Epoch 12/20, Train Accuracy (drusen): 0.9036
+2024-03-19 02:42:12,688 - INFO - Epoch 12/20, Train Accuracy (ped): 0.9559
+2024-03-19 02:42:12,688 - INFO - Epoch 12/20, Train Accuracy (hdots): 0.8775
+2024-03-19 02:42:12,688 - INFO - Epoch 12/20, Train Accuracy (hfoci): 0.9681
+2024-03-19 02:42:18,375 - INFO - Epoch 12/20, Val Loss: 0.6102
+2024-03-19 02:42:24,048 - INFO - Epoch 12/20, Validation Accuracy (foveal_scan): 0.8971
+2024-03-19 02:42:24,048 - INFO - Epoch 12/20, Validation Accuracy (healthy): 0.8015
+2024-03-19 02:42:24,048 - INFO - Epoch 12/20, Validation Accuracy (srf): 0.9632
+2024-03-19 02:42:24,048 - INFO - Epoch 12/20, Validation Accuracy (irf): 0.9338
+2024-03-19 02:42:24,049 - INFO - Epoch 12/20, Validation Accuracy (drusen): 0.8162
+2024-03-19 02:42:24,049 - INFO - Epoch 12/20, Validation Accuracy (ped): 0.8897
+2024-03-19 02:42:24,049 - INFO - Epoch 12/20, Validation Accuracy (hdots): 0.7500
+2024-03-19 02:42:24,049 - INFO - Epoch 12/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:42:35,085 - INFO - Best Validation Loss: 0.6102
+2024-03-19 02:44:56,586 - INFO - Epoch 13/20, Train Loss: 0.2925
+2024-03-19 02:45:47,708 - INFO - Epoch 13/20, Train Accuracy (foveal_scan): 0.9796
+2024-03-19 02:45:47,709 - INFO - Epoch 13/20, Train Accuracy (healthy): 0.9788
+2024-03-19 02:45:47,709 - INFO - Epoch 13/20, Train Accuracy (srf): 0.9788
+2024-03-19 02:45:47,709 - INFO - Epoch 13/20, Train Accuracy (irf): 0.9755
+2024-03-19 02:45:47,709 - INFO - Epoch 13/20, Train Accuracy (drusen): 0.8668
+2024-03-19 02:45:47,709 - INFO - Epoch 13/20, Train Accuracy (ped): 0.9837
+2024-03-19 02:45:47,709 - INFO - Epoch 13/20, Train Accuracy (hdots): 0.9167
+2024-03-19 02:45:47,709 - INFO - Epoch 13/20, Train Accuracy (hfoci): 0.9706
+2024-03-19 02:45:53,378 - INFO - Epoch 13/20, Val Loss: 0.6244
+2024-03-19 02:45:59,051 - INFO - Epoch 13/20, Validation Accuracy (foveal_scan): 0.9118
+2024-03-19 02:45:59,051 - INFO - Epoch 13/20, Validation Accuracy (healthy): 0.8162
+2024-03-19 02:45:59,051 - INFO - Epoch 13/20, Validation Accuracy (srf): 0.9559
+2024-03-19 02:45:59,051 - INFO - Epoch 13/20, Validation Accuracy (irf): 0.9412
+2024-03-19 02:45:59,051 - INFO - Epoch 13/20, Validation Accuracy (drusen): 0.7574
+2024-03-19 02:45:59,051 - INFO - Epoch 13/20, Validation Accuracy (ped): 0.9265
+2024-03-19 02:45:59,051 - INFO - Epoch 13/20, Validation Accuracy (hdots): 0.7500
+2024-03-19 02:45:59,051 - INFO - Epoch 13/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:48:20,509 - INFO - Epoch 14/20, Train Loss: 0.2301
+2024-03-19 02:49:11,696 - INFO - Epoch 14/20, Train Accuracy (foveal_scan): 0.9788
+2024-03-19 02:49:11,696 - INFO - Epoch 14/20, Train Accuracy (healthy): 0.9763
+2024-03-19 02:49:11,696 - INFO - Epoch 14/20, Train Accuracy (srf): 0.9902
+2024-03-19 02:49:11,696 - INFO - Epoch 14/20, Train Accuracy (irf): 0.9804
+2024-03-19 02:49:11,696 - INFO - Epoch 14/20, Train Accuracy (drusen): 0.9542
+2024-03-19 02:49:11,696 - INFO - Epoch 14/20, Train Accuracy (ped): 0.9796
+2024-03-19 02:49:11,696 - INFO - Epoch 14/20, Train Accuracy (hdots): 0.9322
+2024-03-19 02:49:11,696 - INFO - Epoch 14/20, Train Accuracy (hfoci): 0.9755
+2024-03-19 02:49:17,359 - INFO - Epoch 14/20, Val Loss: 0.6273
+2024-03-19 02:49:23,056 - INFO - Epoch 14/20, Validation Accuracy (foveal_scan): 0.8824
+2024-03-19 02:49:23,056 - INFO - Epoch 14/20, Validation Accuracy (healthy): 0.8162
+2024-03-19 02:49:23,056 - INFO - Epoch 14/20, Validation Accuracy (srf): 0.9338
+2024-03-19 02:49:23,056 - INFO - Epoch 14/20, Validation Accuracy (irf): 0.9412
+2024-03-19 02:49:23,056 - INFO - Epoch 14/20, Validation Accuracy (drusen): 0.8676
+2024-03-19 02:49:23,056 - INFO - Epoch 14/20, Validation Accuracy (ped): 0.9044
+2024-03-19 02:49:23,056 - INFO - Epoch 14/20, Validation Accuracy (hdots): 0.8015
+2024-03-19 02:49:23,056 - INFO - Epoch 14/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:51:44,423 - INFO - Epoch 15/20, Train Loss: 0.1947
+2024-03-19 02:52:35,551 - INFO - Epoch 15/20, Train Accuracy (foveal_scan): 0.9869
+2024-03-19 02:52:35,551 - INFO - Epoch 15/20, Train Accuracy (healthy): 0.9869
+2024-03-19 02:52:35,551 - INFO - Epoch 15/20, Train Accuracy (srf): 0.9959
+2024-03-19 02:52:35,551 - INFO - Epoch 15/20, Train Accuracy (irf): 0.9837
+2024-03-19 02:52:35,551 - INFO - Epoch 15/20, Train Accuracy (drusen): 0.9722
+2024-03-19 02:52:35,551 - INFO - Epoch 15/20, Train Accuracy (ped): 0.9779
+2024-03-19 02:52:35,551 - INFO - Epoch 15/20, Train Accuracy (hdots): 0.9453
+2024-03-19 02:52:35,551 - INFO - Epoch 15/20, Train Accuracy (hfoci): 0.9779
+2024-03-19 02:52:41,221 - INFO - Epoch 15/20, Val Loss: 0.6921
+2024-03-19 02:52:46,916 - INFO - Epoch 15/20, Validation Accuracy (foveal_scan): 0.9118
+2024-03-19 02:52:46,916 - INFO - Epoch 15/20, Validation Accuracy (healthy): 0.7574
+2024-03-19 02:52:46,917 - INFO - Epoch 15/20, Validation Accuracy (srf): 0.9632
+2024-03-19 02:52:46,917 - INFO - Epoch 15/20, Validation Accuracy (irf): 0.9412
+2024-03-19 02:52:46,917 - INFO - Epoch 15/20, Validation Accuracy (drusen): 0.8529
+2024-03-19 02:52:46,917 - INFO - Epoch 15/20, Validation Accuracy (ped): 0.8897
+2024-03-19 02:52:46,917 - INFO - Epoch 15/20, Validation Accuracy (hdots): 0.7941
+2024-03-19 02:52:46,917 - INFO - Epoch 15/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:55:08,305 - INFO - Epoch 16/20, Train Loss: 0.1257
+2024-03-19 02:55:59,418 - INFO - Epoch 16/20, Train Accuracy (foveal_scan): 0.9967
+2024-03-19 02:55:59,418 - INFO - Epoch 16/20, Train Accuracy (healthy): 0.9926
+2024-03-19 02:55:59,418 - INFO - Epoch 16/20, Train Accuracy (srf): 0.9926
+2024-03-19 02:55:59,418 - INFO - Epoch 16/20, Train Accuracy (irf): 0.9894
+2024-03-19 02:55:59,418 - INFO - Epoch 16/20, Train Accuracy (drusen): 0.9837
+2024-03-19 02:55:59,418 - INFO - Epoch 16/20, Train Accuracy (ped): 0.9918
+2024-03-19 02:55:59,418 - INFO - Epoch 16/20, Train Accuracy (hdots): 0.9828
+2024-03-19 02:55:59,418 - INFO - Epoch 16/20, Train Accuracy (hfoci): 0.9877
+2024-03-19 02:56:05,083 - INFO - Epoch 16/20, Val Loss: 0.7557
+2024-03-19 02:56:10,775 - INFO - Epoch 16/20, Validation Accuracy (foveal_scan): 0.9191
+2024-03-19 02:56:10,775 - INFO - Epoch 16/20, Validation Accuracy (healthy): 0.7794
+2024-03-19 02:56:10,775 - INFO - Epoch 16/20, Validation Accuracy (srf): 0.9485
+2024-03-19 02:56:10,775 - INFO - Epoch 16/20, Validation Accuracy (irf): 0.9412
+2024-03-19 02:56:10,775 - INFO - Epoch 16/20, Validation Accuracy (drusen): 0.8456
+2024-03-19 02:56:10,775 - INFO - Epoch 16/20, Validation Accuracy (ped): 0.9044
+2024-03-19 02:56:10,775 - INFO - Epoch 16/20, Validation Accuracy (hdots): 0.7941
+2024-03-19 02:56:10,775 - INFO - Epoch 16/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 02:58:33,434 - INFO - Epoch 17/20, Train Loss: 0.0809
+2024-03-19 02:59:24,649 - INFO - Epoch 17/20, Train Accuracy (foveal_scan): 0.9935
+2024-03-19 02:59:24,649 - INFO - Epoch 17/20, Train Accuracy (healthy): 0.9935
+2024-03-19 02:59:24,650 - INFO - Epoch 17/20, Train Accuracy (srf): 0.9967
+2024-03-19 02:59:24,650 - INFO - Epoch 17/20, Train Accuracy (irf): 0.9886
+2024-03-19 02:59:24,650 - INFO - Epoch 17/20, Train Accuracy (drusen): 0.9747
+2024-03-19 02:59:24,650 - INFO - Epoch 17/20, Train Accuracy (ped): 0.9918
+2024-03-19 02:59:24,650 - INFO - Epoch 17/20, Train Accuracy (hdots): 0.9747
+2024-03-19 02:59:24,650 - INFO - Epoch 17/20, Train Accuracy (hfoci): 0.9943
+2024-03-19 02:59:30,320 - INFO - Epoch 17/20, Val Loss: 0.9564
+2024-03-19 02:59:35,995 - INFO - Epoch 17/20, Validation Accuracy (foveal_scan): 0.8971
+2024-03-19 02:59:35,996 - INFO - Epoch 17/20, Validation Accuracy (healthy): 0.7500
+2024-03-19 02:59:35,996 - INFO - Epoch 17/20, Validation Accuracy (srf): 0.9559
+2024-03-19 02:59:35,996 - INFO - Epoch 17/20, Validation Accuracy (irf): 0.9118
+2024-03-19 02:59:35,996 - INFO - Epoch 17/20, Validation Accuracy (drusen): 0.8309
+2024-03-19 02:59:35,996 - INFO - Epoch 17/20, Validation Accuracy (ped): 0.9044
+2024-03-19 02:59:35,996 - INFO - Epoch 17/20, Validation Accuracy (hdots): 0.7353
+2024-03-19 02:59:35,996 - INFO - Epoch 17/20, Validation Accuracy (hfoci): 0.9853
+2024-03-19 03:01:57,422 - INFO - Epoch 18/20, Train Loss: 0.0656
+2024-03-19 03:02:48,480 - INFO - Epoch 18/20, Train Accuracy (foveal_scan): 1.0000
+2024-03-19 03:02:48,480 - INFO - Epoch 18/20, Train Accuracy (healthy): 0.9951
+2024-03-19 03:02:48,480 - INFO - Epoch 18/20, Train Accuracy (srf): 0.9992
+2024-03-19 03:02:48,480 - INFO - Epoch 18/20, Train Accuracy (irf): 1.0000
+2024-03-19 03:02:48,480 - INFO - Epoch 18/20, Train Accuracy (drusen): 0.9959
+2024-03-19 03:02:48,480 - INFO - Epoch 18/20, Train Accuracy (ped): 0.9984
+2024-03-19 03:02:48,480 - INFO - Epoch 18/20, Train Accuracy (hdots): 0.9869
+2024-03-19 03:02:48,480 - INFO - Epoch 18/20, Train Accuracy (hfoci): 0.9943
+2024-03-19 03:02:54,142 - INFO - Epoch 18/20, Val Loss: 0.8644
+2024-03-19 03:02:59,817 - INFO - Epoch 18/20, Validation Accuracy (foveal_scan): 0.8971
+2024-03-19 03:02:59,817 - INFO - Epoch 18/20, Validation Accuracy (healthy): 0.8235
+2024-03-19 03:02:59,817 - INFO - Epoch 18/20, Validation Accuracy (srf): 0.9559
+2024-03-19 03:02:59,817 - INFO - Epoch 18/20, Validation Accuracy (irf): 0.9412
+2024-03-19 03:02:59,817 - INFO - Epoch 18/20, Validation Accuracy (drusen): 0.8529
+2024-03-19 03:02:59,817 - INFO - Epoch 18/20, Validation Accuracy (ped): 0.9191
+2024-03-19 03:02:59,817 - INFO - Epoch 18/20, Validation Accuracy (hdots): 0.8088
+2024-03-19 03:02:59,817 - INFO - Epoch 18/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 03:05:21,223 - INFO - Epoch 19/20, Train Loss: 0.0234
+2024-03-19 03:06:12,315 - INFO - Epoch 19/20, Train Accuracy (foveal_scan): 1.0000
+2024-03-19 03:06:12,316 - INFO - Epoch 19/20, Train Accuracy (healthy): 0.9984
+2024-03-19 03:06:12,316 - INFO - Epoch 19/20, Train Accuracy (srf): 1.0000
+2024-03-19 03:06:12,316 - INFO - Epoch 19/20, Train Accuracy (irf): 0.9975
+2024-03-19 03:06:12,316 - INFO - Epoch 19/20, Train Accuracy (drusen): 0.9967
+2024-03-19 03:06:12,316 - INFO - Epoch 19/20, Train Accuracy (ped): 0.9992
+2024-03-19 03:06:12,316 - INFO - Epoch 19/20, Train Accuracy (hdots): 0.9837
+2024-03-19 03:06:12,316 - INFO - Epoch 19/20, Train Accuracy (hfoci): 0.9967
+2024-03-19 03:06:17,988 - INFO - Epoch 19/20, Val Loss: 0.9342
+2024-03-19 03:06:23,653 - INFO - Epoch 19/20, Validation Accuracy (foveal_scan): 0.9118
+2024-03-19 03:06:23,653 - INFO - Epoch 19/20, Validation Accuracy (healthy): 0.8382
+2024-03-19 03:06:23,653 - INFO - Epoch 19/20, Validation Accuracy (srf): 0.9559
+2024-03-19 03:06:23,653 - INFO - Epoch 19/20, Validation Accuracy (irf): 0.9412
+2024-03-19 03:06:23,653 - INFO - Epoch 19/20, Validation Accuracy (drusen): 0.8309
+2024-03-19 03:06:23,653 - INFO - Epoch 19/20, Validation Accuracy (ped): 0.9118
+2024-03-19 03:06:23,653 - INFO - Epoch 19/20, Validation Accuracy (hdots): 0.7353
+2024-03-19 03:06:23,653 - INFO - Epoch 19/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 03:08:45,106 - INFO - Epoch 20/20, Train Loss: 0.0479
+2024-03-19 03:09:36,159 - INFO - Epoch 20/20, Train Accuracy (foveal_scan): 0.9975
+2024-03-19 03:09:36,159 - INFO - Epoch 20/20, Train Accuracy (healthy): 0.9853
+2024-03-19 03:09:36,159 - INFO - Epoch 20/20, Train Accuracy (srf): 0.9975
+2024-03-19 03:09:36,159 - INFO - Epoch 20/20, Train Accuracy (irf): 0.9910
+2024-03-19 03:09:36,159 - INFO - Epoch 20/20, Train Accuracy (drusen): 0.9779
+2024-03-19 03:09:36,159 - INFO - Epoch 20/20, Train Accuracy (ped): 0.9853
+2024-03-19 03:09:36,159 - INFO - Epoch 20/20, Train Accuracy (hdots): 0.9567
+2024-03-19 03:09:36,159 - INFO - Epoch 20/20, Train Accuracy (hfoci): 0.9918
+2024-03-19 03:09:41,825 - INFO - Epoch 20/20, Val Loss: 1.0571
+2024-03-19 03:09:47,500 - INFO - Epoch 20/20, Validation Accuracy (foveal_scan): 0.9044
+2024-03-19 03:09:47,500 - INFO - Epoch 20/20, Validation Accuracy (healthy): 0.8015
+2024-03-19 03:09:47,501 - INFO - Epoch 20/20, Validation Accuracy (srf): 0.9559
+2024-03-19 03:09:47,501 - INFO - Epoch 20/20, Validation Accuracy (irf): 0.9412
+2024-03-19 03:09:47,501 - INFO - Epoch 20/20, Validation Accuracy (drusen): 0.8382
+2024-03-19 03:09:47,501 - INFO - Epoch 20/20, Validation Accuracy (ped): 0.8750
+2024-03-19 03:09:47,501 - INFO - Epoch 20/20, Validation Accuracy (hdots): 0.7941
+2024-03-19 03:09:47,501 - INFO - Epoch 20/20, Validation Accuracy (hfoci): 0.9926
+2024-03-19 03:10:06,654 - INFO -  Final Test Accuracy (foveal_scan): 0.9061
+2024-03-19 03:10:06,654 - INFO -  Final Test Accuracy (healthy): 0.6463
+2024-03-19 03:10:06,654 - INFO -  Final Test Accuracy (srf): 0.9913
+2024-03-19 03:10:06,654 - INFO -  Final Test Accuracy (irf): 0.9825
+2024-03-19 03:10:06,654 - INFO -  Final Test Accuracy (drusen): 0.7227
+2024-03-19 03:10:06,654 - INFO -  Final Test Accuracy (ped): 0.8974
+2024-03-19 03:10:06,654 - INFO -  Final Test Accuracy (hdots): 0.5939
+2024-03-19 03:10:06,654 - INFO -  Final Test Accuracy (hfoci): 0.9127

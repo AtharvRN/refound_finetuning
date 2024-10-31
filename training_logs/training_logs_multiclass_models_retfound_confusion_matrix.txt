@@ -1,0 +1,16 @@
+2024-03-14 20:30:32 - INFO -  Final Test Accuracy (foveal_scan): 0.9779
+2024-03-14 20:30:32 - INFO -  Final Test Accuracy (healthy): 0.9412
+2024-03-14 20:30:32 - INFO -  Final Test Accuracy (srf): 0.9412
+2024-03-14 20:30:32 - INFO -  Final Test Accuracy (irf): 0.9338
+2024-03-14 20:30:32 - INFO -  Final Test Accuracy (drusen): 0.8750
+2024-03-14 20:30:32 - INFO -  Final Test Accuracy (ped): 0.9265
+2024-03-14 20:30:32 - INFO -  Final Test Accuracy (hdots): 0.7353
+2024-03-14 20:30:32 - INFO -  Final Test Accuracy (hfoci): 0.9926
+2024-03-14 20:31:53 - INFO -  Final Test Accuracy (foveal_scan): 0.9779
+2024-03-14 20:31:53 - INFO -  Final Test Accuracy (healthy): 0.9412
+2024-03-14 20:31:53 - INFO -  Final Test Accuracy (srf): 0.9412
+2024-03-14 20:31:53 - INFO -  Final Test Accuracy (irf): 0.9338
+2024-03-14 20:31:53 - INFO -  Final Test Accuracy (drusen): 0.8750
+2024-03-14 20:31:53 - INFO -  Final Test Accuracy (ped): 0.9265
+2024-03-14 20:31:53 - INFO -  Final Test Accuracy (hdots): 0.7353
+2024-03-14 20:31:53 - INFO -  Final Test Accuracy (hfoci): 0.9926

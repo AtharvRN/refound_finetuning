@@ -1,0 +1,27 @@
+2024-03-18 18:13:16,041 - INFO - Saving models in /home/tejadhith/Project/OCT/mutliclass_models_retfound 
+2024-03-18 18:13:25,001 - INFO - Initial Test Accuracy (foveal_scan): 0.0792
+2024-03-18 18:13:25,002 - INFO - Initial Test Accuracy (healthy): 0.5861
+2024-03-18 18:13:25,002 - INFO - Initial Test Accuracy (srf): 0.9960
+2024-03-18 18:13:25,002 - INFO - Initial Test Accuracy (irf): 0.9881
+2024-03-18 18:13:25,002 - INFO - Initial Test Accuracy (drusen): 0.7743
+2024-03-18 18:13:25,002 - INFO - Initial Test Accuracy (ped): 0.0535
+2024-03-18 18:13:25,002 - INFO - Initial Test Accuracy (hdots): 0.6297
+2024-03-18 18:13:25,002 - INFO - Initial Test Accuracy (hfoci): 0.8891
+2024-03-18 18:13:53,989 - INFO - Epoch 1/20, Train Loss: 0.1163
+2024-03-18 18:14:08,333 - INFO - Epoch 1/20, Train Accuracy (foveal_scan): 0.9044
+2024-03-18 18:14:08,333 - INFO - Epoch 1/20, Train Accuracy (healthy): 0.6961
+2024-03-18 18:14:08,333 - INFO - Epoch 1/20, Train Accuracy (srf): 0.9346
+2024-03-18 18:14:08,333 - INFO - Epoch 1/20, Train Accuracy (irf): 0.9510
+2024-03-18 18:14:08,333 - INFO - Epoch 1/20, Train Accuracy (drusen): 0.8292
+2024-03-18 18:14:08,333 - INFO - Epoch 1/20, Train Accuracy (ped): 0.8382
+2024-03-18 18:14:08,333 - INFO - Epoch 1/20, Train Accuracy (hdots): 0.6242
+2024-03-18 18:14:08,333 - INFO - Epoch 1/20, Train Accuracy (hfoci): 0.9681
+2024-03-18 18:14:09,926 - INFO - Epoch 1/20, Val Loss: 0.1147
+2024-03-18 18:14:11,510 - INFO - Epoch 1/20, Validation Accuracy (foveal_scan): 0.8676
+2024-03-18 18:14:11,510 - INFO - Epoch 1/20, Validation Accuracy (healthy): 0.6471
+2024-03-18 18:14:11,510 - INFO - Epoch 1/20, Validation Accuracy (srf): 0.9338
+2024-03-18 18:14:11,510 - INFO - Epoch 1/20, Validation Accuracy (irf): 0.9338
+2024-03-18 18:14:11,510 - INFO - Epoch 1/20, Validation Accuracy (drusen): 0.8676
+2024-03-18 18:14:11,510 - INFO - Epoch 1/20, Validation Accuracy (ped): 0.8382
+2024-03-18 18:14:11,511 - INFO - Epoch 1/20, Validation Accuracy (hdots): 0.5588
+2024-03-18 18:14:11,511 - INFO - Epoch 1/20, Validation Accuracy (hfoci): 0.9926

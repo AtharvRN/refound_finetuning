@@ -1,0 +1,227 @@
+INFO:root:Saving models in /home/tejadhith/Project/OCT/models_ResNet/foveal_scan 
+INFO:root:Current Task : foveal_scan 
+INFO:root:Test Accuracy (Initial) : [0.1323529411764706, 0.6470588235294118, 0.9338235294117647, 0.9338235294117647, 0.8676470588235294, 0.16176470588235295, 0.5588235294117647, 0.9411764705882353]
+INFO:root:Epoch 1/10, Train Loss: 0.1163
+INFO:root:Epoch 1/10, Train Accuracy (foveal_scan): 0.9081
+INFO:root:Epoch 1/10, Train Accuracy (healthy): 0.6976
+INFO:root:Epoch 1/10, Train Accuracy (srf): 0.9292
+INFO:root:Epoch 1/10, Train Accuracy (irf): 0.9494
+INFO:root:Epoch 1/10, Train Accuracy (drusen): 0.8281
+INFO:root:Epoch 1/10, Train Accuracy (hdots): 0.8410
+INFO:root:Epoch 1/10, Train Accuracy (hfoci): 0.6342
+INFO:root:Epoch 1/10, Train Accuracy (ped): 0.9688
+INFO:root:Epoch 1/10, Val Loss: 0.0146
+INFO:root:Epoch 1/10, Validation Accuracy (foveal_scan): 0.8750
+INFO:root:Epoch 1/10, Validation Accuracy (healthy): 0.6838
+INFO:root:Epoch 1/10, Validation Accuracy (srf): 0.9779
+INFO:root:Epoch 1/10, Validation Accuracy (irf): 0.9632
+INFO:root:Epoch 1/10, Validation Accuracy (drusen): 0.8382
+INFO:root:Epoch 1/10, Validation Accuracy (hdots): 0.8162
+INFO:root:Epoch 1/10, Validation Accuracy (hfoci): 0.5441
+INFO:root:Epoch 1/10, Validation Accuracy (ped): 0.9632
+INFO:root:Best Validation Accuracy: 0.9779
+INFO:root:Epoch 2/10, Train Loss: 0.0870
+INFO:root:Epoch 2/10, Train Accuracy (foveal_scan): 0.9081
+INFO:root:Epoch 2/10, Train Accuracy (healthy): 0.8594
+INFO:root:Epoch 2/10, Train Accuracy (srf): 0.9292
+INFO:root:Epoch 2/10, Train Accuracy (irf): 0.9494
+INFO:root:Epoch 2/10, Train Accuracy (drusen): 0.8281
+INFO:root:Epoch 2/10, Train Accuracy (hdots): 0.8410
+INFO:root:Epoch 2/10, Train Accuracy (hfoci): 0.7583
+INFO:root:Epoch 2/10, Train Accuracy (ped): 0.9688
+INFO:root:Epoch 2/10, Val Loss: 0.0119
+INFO:root:Epoch 2/10, Validation Accuracy (foveal_scan): 0.8750
+INFO:root:Epoch 2/10, Validation Accuracy (healthy): 0.7721
+INFO:root:Epoch 2/10, Validation Accuracy (srf): 0.9779
+INFO:root:Epoch 2/10, Validation Accuracy (irf): 0.9632
+INFO:root:Epoch 2/10, Validation Accuracy (drusen): 0.8382
+INFO:root:Epoch 2/10, Validation Accuracy (hdots): 0.8162
+INFO:root:Epoch 2/10, Validation Accuracy (hfoci): 0.7353
+INFO:root:Epoch 2/10, Validation Accuracy (ped): 0.9632
+INFO:root:Epoch 3/10, Train Loss: 0.0724
+INFO:root:Epoch 3/10, Train Accuracy (foveal_scan): 0.9081
+INFO:root:Epoch 3/10, Train Accuracy (healthy): 0.8869
+INFO:root:Epoch 3/10, Train Accuracy (srf): 0.9292
+INFO:root:Epoch 3/10, Train Accuracy (irf): 0.9494
+INFO:root:Epoch 3/10, Train Accuracy (drusen): 0.8226
+INFO:root:Epoch 3/10, Train Accuracy (hdots): 0.8382
+INFO:root:Epoch 3/10, Train Accuracy (hfoci): 0.7812
+INFO:root:Epoch 3/10, Train Accuracy (ped): 0.9688
+INFO:root:Epoch 3/10, Val Loss: 0.0113
+INFO:root:Epoch 3/10, Validation Accuracy (foveal_scan): 0.8750
+INFO:root:Epoch 3/10, Validation Accuracy (healthy): 0.8529
+INFO:root:Epoch 3/10, Validation Accuracy (srf): 0.9779
+INFO:root:Epoch 3/10, Validation Accuracy (irf): 0.9632
+INFO:root:Epoch 3/10, Validation Accuracy (drusen): 0.8456
+INFO:root:Epoch 3/10, Validation Accuracy (hdots): 0.8235
+INFO:root:Epoch 3/10, Validation Accuracy (hfoci): 0.7279
+INFO:root:Epoch 3/10, Validation Accuracy (ped): 0.9632
+INFO:root:Epoch 4/10, Train Loss: 0.0656
+INFO:root:Epoch 4/10, Train Accuracy (foveal_scan): 0.9081
+INFO:root:Epoch 4/10, Train Accuracy (healthy): 0.9513
+INFO:root:Epoch 4/10, Train Accuracy (srf): 0.9320
+INFO:root:Epoch 4/10, Train Accuracy (irf): 0.9494
+INFO:root:Epoch 4/10, Train Accuracy (drusen): 0.8180
+INFO:root:Epoch 4/10, Train Accuracy (hdots): 0.9026
+INFO:root:Epoch 4/10, Train Accuracy (hfoci): 0.7932
+INFO:root:Epoch 4/10, Train Accuracy (ped): 0.9688
+INFO:root:Epoch 4/10, Val Loss: 0.0104
+INFO:root:Epoch 4/10, Validation Accuracy (foveal_scan): 0.8750
+INFO:root:Epoch 4/10, Validation Accuracy (healthy): 0.9191
+INFO:root:Epoch 4/10, Validation Accuracy (srf): 0.9779
+INFO:root:Epoch 4/10, Validation Accuracy (irf): 0.9632
+INFO:root:Epoch 4/10, Validation Accuracy (drusen): 0.8088
+INFO:root:Epoch 4/10, Validation Accuracy (hdots): 0.9265
+INFO:root:Epoch 4/10, Validation Accuracy (hfoci): 0.6765
+INFO:root:Epoch 4/10, Validation Accuracy (ped): 0.9632
+INFO:root:Epoch 5/10, Train Loss: 0.0583
+INFO:root:Epoch 5/10, Train Accuracy (foveal_scan): 0.9081
+INFO:root:Epoch 5/10, Train Accuracy (healthy): 0.9862
+INFO:root:Epoch 5/10, Train Accuracy (srf): 0.9347
+INFO:root:Epoch 5/10, Train Accuracy (irf): 0.9494
+INFO:root:Epoch 5/10, Train Accuracy (drusen): 0.8382
+INFO:root:Epoch 5/10, Train Accuracy (hdots): 0.9017
+INFO:root:Epoch 5/10, Train Accuracy (hfoci): 0.7868
+INFO:root:Epoch 5/10, Train Accuracy (ped): 0.9688
+INFO:root:Epoch 5/10, Val Loss: 0.0094
+INFO:root:Epoch 5/10, Validation Accuracy (foveal_scan): 0.8750
+INFO:root:Epoch 5/10, Validation Accuracy (healthy): 0.9191
+INFO:root:Epoch 5/10, Validation Accuracy (srf): 0.9779
+INFO:root:Epoch 5/10, Validation Accuracy (irf): 0.9632
+INFO:root:Epoch 5/10, Validation Accuracy (drusen): 0.8382
+INFO:root:Epoch 5/10, Validation Accuracy (hdots): 0.9265
+INFO:root:Epoch 5/10, Validation Accuracy (hfoci): 0.6912
+INFO:root:Epoch 5/10, Validation Accuracy (ped): 0.9632
+INFO:root:Epoch 6/10, Train Loss: 0.0514
+INFO:root:Epoch 6/10, Train Accuracy (foveal_scan): 0.9531
+INFO:root:Epoch 6/10, Train Accuracy (healthy): 0.9835
+INFO:root:Epoch 6/10, Train Accuracy (srf): 0.9439
+INFO:root:Epoch 6/10, Train Accuracy (irf): 0.9550
+INFO:root:Epoch 6/10, Train Accuracy (drusen): 0.8695
+INFO:root:Epoch 6/10, Train Accuracy (hdots): 0.9412
+INFO:root:Epoch 6/10, Train Accuracy (hfoci): 0.7996
+INFO:root:Epoch 6/10, Train Accuracy (ped): 0.9688
+INFO:root:Epoch 6/10, Val Loss: 0.0089
+INFO:root:Epoch 6/10, Validation Accuracy (foveal_scan): 0.9412
+INFO:root:Epoch 6/10, Validation Accuracy (healthy): 0.8897
+INFO:root:Epoch 6/10, Validation Accuracy (srf): 0.9779
+INFO:root:Epoch 6/10, Validation Accuracy (irf): 0.9632
+INFO:root:Epoch 6/10, Validation Accuracy (drusen): 0.8162
+INFO:root:Epoch 6/10, Validation Accuracy (hdots): 0.9338
+INFO:root:Epoch 6/10, Validation Accuracy (hfoci): 0.7059
+INFO:root:Epoch 6/10, Validation Accuracy (ped): 0.9632
+INFO:root:Epoch 7/10, Train Loss: 0.0433
+INFO:root:Epoch 7/10, Train Accuracy (foveal_scan): 0.9890
+INFO:root:Epoch 7/10, Train Accuracy (healthy): 0.9807
+INFO:root:Epoch 7/10, Train Accuracy (srf): 0.9550
+INFO:root:Epoch 7/10, Train Accuracy (irf): 0.9568
+INFO:root:Epoch 7/10, Train Accuracy (drusen): 0.9311
+INFO:root:Epoch 7/10, Train Accuracy (hdots): 0.9504
+INFO:root:Epoch 7/10, Train Accuracy (hfoci): 0.8787
+INFO:root:Epoch 7/10, Train Accuracy (ped): 0.9688
+INFO:root:Epoch 7/10, Val Loss: 0.0086
+INFO:root:Epoch 7/10, Validation Accuracy (foveal_scan): 0.9559
+INFO:root:Epoch 7/10, Validation Accuracy (healthy): 0.9044
+INFO:root:Epoch 7/10, Validation Accuracy (srf): 0.9853
+INFO:root:Epoch 7/10, Validation Accuracy (irf): 0.9632
+INFO:root:Epoch 7/10, Validation Accuracy (drusen): 0.7941
+INFO:root:Epoch 7/10, Validation Accuracy (hdots): 0.9338
+INFO:root:Epoch 7/10, Validation Accuracy (hfoci): 0.7794
+INFO:root:Epoch 7/10, Validation Accuracy (ped): 0.9632
+INFO:root:Best Validation Accuracy: 0.9853
+INFO:root:Epoch 8/10, Train Loss: 0.0369
+INFO:root:Epoch 8/10, Train Accuracy (foveal_scan): 0.9862
+INFO:root:Epoch 8/10, Train Accuracy (healthy): 0.9899
+INFO:root:Epoch 8/10, Train Accuracy (srf): 0.9706
+INFO:root:Epoch 8/10, Train Accuracy (irf): 0.9568
+INFO:root:Epoch 8/10, Train Accuracy (drusen): 0.9173
+INFO:root:Epoch 8/10, Train Accuracy (hdots): 0.9678
+INFO:root:Epoch 8/10, Train Accuracy (hfoci): 0.9072
+INFO:root:Epoch 8/10, Train Accuracy (ped): 0.9770
+INFO:root:Epoch 8/10, Val Loss: 0.0089
+INFO:root:Epoch 8/10, Validation Accuracy (foveal_scan): 0.9412
+INFO:root:Epoch 8/10, Validation Accuracy (healthy): 0.9044
+INFO:root:Epoch 8/10, Validation Accuracy (srf): 0.9853
+INFO:root:Epoch 8/10, Validation Accuracy (irf): 0.9632
+INFO:root:Epoch 8/10, Validation Accuracy (drusen): 0.7794
+INFO:root:Epoch 8/10, Validation Accuracy (hdots): 0.9338
+INFO:root:Epoch 8/10, Validation Accuracy (hfoci): 0.7647
+INFO:root:Epoch 8/10, Validation Accuracy (ped): 0.9632
+INFO:root:Epoch 9/10, Train Loss: 0.0307
+INFO:root:Epoch 9/10, Train Accuracy (foveal_scan): 0.9991
+INFO:root:Epoch 9/10, Train Accuracy (healthy): 0.9881
+INFO:root:Epoch 9/10, Train Accuracy (srf): 0.9770
+INFO:root:Epoch 9/10, Train Accuracy (irf): 0.9596
+INFO:root:Epoch 9/10, Train Accuracy (drusen): 0.9347
+INFO:root:Epoch 9/10, Train Accuracy (hdots): 0.9715
+INFO:root:Epoch 9/10, Train Accuracy (hfoci): 0.9550
+INFO:root:Epoch 9/10, Train Accuracy (ped): 0.9733
+INFO:root:Epoch 9/10, Val Loss: 0.0086
+INFO:root:Epoch 9/10, Validation Accuracy (foveal_scan): 0.9559
+INFO:root:Epoch 9/10, Validation Accuracy (healthy): 0.9118
+INFO:root:Epoch 9/10, Validation Accuracy (srf): 0.9853
+INFO:root:Epoch 9/10, Validation Accuracy (irf): 0.9632
+INFO:root:Epoch 9/10, Validation Accuracy (drusen): 0.8235
+INFO:root:Epoch 9/10, Validation Accuracy (hdots): 0.9338
+INFO:root:Epoch 9/10, Validation Accuracy (hfoci): 0.7868
+INFO:root:Epoch 9/10, Validation Accuracy (ped): 0.9632
+INFO:root:Epoch 10/10, Train Loss: 0.0260
+INFO:root:Epoch 10/10, Train Accuracy (foveal_scan): 0.9991
+INFO:root:Epoch 10/10, Train Accuracy (healthy): 0.9871
+INFO:root:Epoch 10/10, Train Accuracy (srf): 0.9835
+INFO:root:Epoch 10/10, Train Accuracy (irf): 0.9642
+INFO:root:Epoch 10/10, Train Accuracy (drusen): 0.9697
+INFO:root:Epoch 10/10, Train Accuracy (hdots): 0.9816
+INFO:root:Epoch 10/10, Train Accuracy (hfoci): 0.9494
+INFO:root:Epoch 10/10, Train Accuracy (ped): 0.9660
+INFO:root:Epoch 10/10, Val Loss: 0.0090
+INFO:root:Epoch 10/10, Validation Accuracy (foveal_scan): 0.9485
+INFO:root:Epoch 10/10, Validation Accuracy (healthy): 0.8676
+INFO:root:Epoch 10/10, Validation Accuracy (srf): 0.9926
+INFO:root:Epoch 10/10, Validation Accuracy (irf): 0.9632
+INFO:root:Epoch 10/10, Validation Accuracy (drusen): 0.8162
+INFO:root:Epoch 10/10, Validation Accuracy (hdots): 0.9559
+INFO:root:Epoch 10/10, Validation Accuracy (hfoci): 0.6838
+INFO:root:Epoch 10/10, Validation Accuracy (ped): 0.9632
+INFO:root:Best Validation Accuracy: 0.9926
+INFO:root:Test Accuracy (Final) : [0.9779411764705882, 0.9632352941176471, 0.9705882352941176, 0.9338235294117647, 0.9191176470588235, 0.9632352941176471, 0.75, 0.9852941176470589]
+INFO:root:Saving models in /home/tejadhith/Project/OCT/models_ResNet/healthy 
+INFO:root:Current Task : healthy 
+INFO:root:Test Accuracy (Initial) : [0.9779411764705882, 0.9632352941176471, 0.9705882352941176, 0.9338235294117647, 0.9191176470588235, 0.9632352941176471, 0.75, 0.9852941176470589]
+INFO:root:Epoch 1/10, Train Loss: 0.0232
+INFO:root:Epoch 1/10, Train Accuracy (foveal_scan): 0.9936
+INFO:root:Epoch 1/10, Train Accuracy (healthy): 0.9963
+INFO:root:Epoch 1/10, Train Accuracy (srf): 0.9862
+INFO:root:Epoch 1/10, Train Accuracy (irf): 0.9577
+INFO:root:Epoch 1/10, Train Accuracy (drusen): 0.9881
+INFO:root:Epoch 1/10, Train Accuracy (hdots): 0.9853
+INFO:root:Epoch 1/10, Train Accuracy (hfoci): 0.9669
+INFO:root:Epoch 1/10, Train Accuracy (ped): 0.9733
+INFO:root:Epoch 1/10, Val Loss: 0.0083
+INFO:root:Epoch 1/10, Validation Accuracy (foveal_scan): 0.9779
+INFO:root:Epoch 1/10, Validation Accuracy (healthy): 0.9265
+INFO:root:Epoch 1/10, Validation Accuracy (srf): 0.9853
+INFO:root:Epoch 1/10, Validation Accuracy (irf): 0.9632
+INFO:root:Epoch 1/10, Validation Accuracy (drusen): 0.8603
+INFO:root:Epoch 1/10, Validation Accuracy (hdots): 0.9632
+INFO:root:Epoch 1/10, Validation Accuracy (hfoci): 0.7500
+INFO:root:Epoch 1/10, Validation Accuracy (ped): 0.9632
+INFO:root:Best Validation Accuracy: 0.9853
+INFO:root:Epoch 2/10, Train Loss: 0.0190
+INFO:root:Epoch 2/10, Train Accuracy (foveal_scan): 0.9982
+INFO:root:Epoch 2/10, Train Accuracy (healthy): 0.9991
+INFO:root:Epoch 2/10, Train Accuracy (srf): 0.9844
+INFO:root:Epoch 2/10, Train Accuracy (irf): 0.9779
+INFO:root:Epoch 2/10, Train Accuracy (drusen): 0.9917
+INFO:root:Epoch 2/10, Train Accuracy (hdots): 0.9908
+INFO:root:Epoch 2/10, Train Accuracy (hfoci): 0.9835
+INFO:root:Epoch 2/10, Train Accuracy (ped): 0.9743
+INFO:root:Epoch 2/10, Val Loss: 0.0092
+INFO:root:Epoch 2/10, Validation Accuracy (foveal_scan): 0.9559
+INFO:root:Epoch 2/10, Validation Accuracy (healthy): 0.9118
+INFO:root:Epoch 2/10, Validation Accuracy (srf): 0.9926
+INFO:root:Epoch 2/10, Validation Accuracy (irf): 0.9632
+INFO:root:Epoch 2/10, Validation Accuracy (drusen): 0.8603
+INFO:root:Epoch 2/10, Validation Accuracy (hdots): 0.9485
+INFO:root:Epoch 2/10, Validation Accuracy (hfoci): 0.7868
+INFO:root:Epoch 2/10, Validation Accuracy (ped): 0.9632
