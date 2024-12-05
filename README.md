@@ -7,4 +7,6 @@ Refer to [paper](https://www.mdpi.com/2306-5354/11/12/1186#:~:text=As%20RETFound
 Refer to [this slide](Retfound.pdf) for more info regarding Foundational Models in OCT and also Artificial OCT Generation using Latent Diffusion Models <br/>
 Refer to [this slide](Synthesis.pdf) for some results on Artificial OCT Generation using Pix2Pix GAN and Retfound based GAN <br/>
 
+Pls reach out to [atharv.ramesh2003@gmail.com](mailto:atharv.ramesh2003@gmail.com) in case you have any queries
+
 
